@@ -7,3 +7,5 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 });
+
+// improvements in the future v:
